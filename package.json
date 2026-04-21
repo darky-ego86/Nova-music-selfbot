@@ -1,0 +1,17 @@
+{
+  "name": "nova",
+  "version": "1.0.0",
+  "description": "Nova Music Selfbot — Credit: Darky",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js-selfbot-v13": "^3.4.0",
+    "edge-tts": "^1.0.0",
+    "form-data": "^4.0.0",
+    "lavalink-client": "^2.4.0",
+    "node-fetch": "^2.7.0"
+  }
+}

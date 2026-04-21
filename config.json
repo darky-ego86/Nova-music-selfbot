@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {
+      "name": "pf",
+      "host": "",
+      "port": 8746,
+      "auth": "",
+      "secure": false
+    }
+  ]
+}
