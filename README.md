@@ -1,7 +1,7 @@
 # Nova Music Selfbot
 **Credit: Darky**
 
-A full-featured Discord music selfbot — converted to JavaScript from Python.
+A full-featured Discord music selfbot
 
 ---
 
